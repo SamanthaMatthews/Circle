@@ -1,7 +1,7 @@
 # Circle
 ## Python Circle Calculator
 #### Purpose
-This program was created to calculate the circumference and area of a circle when given the radius. 
+This program was created to calculate the circumference and area of a circle when given the radius. I created this in a python class and I would consider myself a beginner when it comes to coding. 
 #### Description
 This program was created using a while loop, print statements, and conditional statements to achieve its main purpose. First a menu was created using various print statements so the program would be more user-friendly. When this program is ran using the command prompt, the user should be presented with something like shown in the image provided below.
 
