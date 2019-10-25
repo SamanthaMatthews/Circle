@@ -17,12 +17,16 @@ The user can then choose whether they want to calculate the circumference or are
 When the user picks option 1 the program will ask for the user to input the radius of the given circle and it will then multiply that value times pi and then by 2. Then the program stores that value into a variable so that it can be printed out and the user can see the end value.
 
 
+![](circumference.PNG)
+
 
 
 ###### Area
 
 When the user picks option 2 the program will ask the user to input the radius of the given circle and it will multiply that value times itself and then by pi. Then the program stores that value into a variable so that it can be printed out and the user can see the end value.
 
+
+![](area.PNG)
 
 
 ###### EXIT 
