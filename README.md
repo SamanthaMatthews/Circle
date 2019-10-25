@@ -25,5 +25,5 @@ When the user picks option 2 the program will ask the user to input the radius o
 
 
 
-####### EXIT 
+###### EXIT 
 When the user chooses this option the program terminates, or in other words, closes.
